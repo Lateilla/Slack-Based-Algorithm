@@ -1,0 +1,25 @@
+10510CL 101015	 |	College Chinese	 |	2	 |	W5W6	 | EECS125	 | 	Required	 | 	Chinese	 | 	 - 
+10510LANG101001	 |	English I	 |	2	 |	M1M2	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10510LANG101011	 |	English I	 |	2	 |	M3M4	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10510LANG101019	 |	English I	 |	2	 |	W3W4	 | GEN II108	 | 	Required	 | 	English	 | 	 - 
+10510LANG101026	 |	English I	 |	2	 |	R1R2	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10510LANG101035	 |	English I	 |	2	 |	F3F4	 | GEN II108	 | 	Required	 | 	English	 | 	 - 
+10520LANG102001	 |	English II	 |	2	 |	M1M2	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10520LANG102011	 |	English II	 |	2	 |	M3M4	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10520LANG102019	 |	English II	 |	2	 |	W3W4	 | GEN II108	 | 	Required	 | 	English	 | 	 - 
+10520LANG102026	 |	English II	 |	2	 |	R1R2	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10520LANG102035	 |	English II	 |	2	 |	F3F4	 | GEN II108	 | 	Required	 | 	English	 | 	 - 
+10510LANG103005	 |	English III: Listening and Speaking	 |	2	 |	M5M6	 | GEN II203	 | 	Required	 | 	English	 | 	 - 
+10510LANG103011	 |	English III: Listening and Speaking	 |	2	 |	M7M8	 | GEN II204	 | 	Required	 | 	English	 | 	 - 
+10510LANG103017	 |	English III: Listening and Speaking	 |	2	 |	T5T6	 | GEN II203	 | 	Required	 | 	English	 | 	 - 
+10510LANG103026	 |	English III: Listening and Speaking	 |	2	 |	W5W6	 | GEN II108	 | 	Required	 | 	English	 | 	 - 
+10510LANG103032	 |	English III: Listening and Speaking	 |	2	 |	W7W8	 | GEN II204	 | 	Required	 | 	English	 | 	 - 
+10510LANG103037	 |	English III: Listening and Speaking	 |	2	 |	R5R6	 | GEN II203	 | 	Required	 | 	English	 | 	 - 
+10510LANG103042	 |	English III: Listening and Speaking	 |	2	 |	F5F6	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10510LANG103001	 |	English III: Reading	 |	2	 |	M5M6	 | GEN II104	 | 	Required	 | 	English	 | 	 - 
+10510LANG103010	 |	English III: Reading	 |	2	 |	M7M8	 | GEN II202	 | 	Required	 | 	English	 | 	 - 
+10510LANG103013	 |	English III: Reading	 |	2	 |	T5T6	 | GEN II201	 | 	Required	 | 	English	 | 	 - 
+10510LANG103021	 |	English III: Reading	 |	2	 |	W5W6	 | GEN II202	 | 	Required	 | 	English	 | 	 - 
+10510LANG103030	 |	English III: Reading	 |	2	 |	W7W8	 | GEN II203	 | 	Required	 | 	English	 | 	 - 
+10510LANG103035	 |	English III: Reading	 |	2	 |	R5R6	 | GEN II105	 | 	Required	 | 	English	 | 	 - 
+10510LANG103041	 |	English III: Reading	 |	2	 |	R7R8	 | GEN II108	 | 	Required	 | 	English	 | 	 - 

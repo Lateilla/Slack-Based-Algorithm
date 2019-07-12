@@ -1,0 +1,215 @@
+10510PE 205011	 | 	Aerobics dancing	 |	0	 | 	T3T4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205057	 | 	Aerobics dancing	 |	0	 | 	W7W8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205092	 | 	Aerobics dancing	 |	0	 | 	M5M6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 206056	 | 	Aerobics dancing	 |	0	 | 	W7W8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205036	 | 	Badminton	 |	0	 | 	W1W2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205039	 | 	Badminton	 |	0	 | 	W3W4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205046	 | 	Badminton	 |	0	 | 	W5W6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205055	 | 	Badminton	 |	0	 | 	W7W8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205061	 | 	Badminton	 |	0	 | 	R1R2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205064	 | 	Badminton	 |	0	 | 	R3R4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205068	 | 	Badminton	 |	0	 | 	R5R6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205078	 | 	Badminton	 |	0	 | 	R7R8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112019	 | 	Badminton	 |	0	 | 	F5F6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112024	 | 	Badminton	 |	0	 | 	F7F8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206020	 | 	Badminton	 |	0	 | 	T5T6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206031	 | 	Badminton	 |	0	 | 	T7T8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206040	 | 	Badminton	 |	0	 | 	W1W2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206042	 | 	Badminton	 |	0	 | 	W3W4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206060	 | 	Badminton	 |	0	 | 	R1R2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206063	 | 	Badminton	 |	0	 | 	R3R4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206067	 | 	Badminton	 |	0	 | 	R5R6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206077	 | 	Badminton	 |	0	 | 	R7R8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206085	 | 	Badminton	 |	0	 | 	F1F2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206088	 | 	Badminton	 |	0	 | 	F3F4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205014	 | 	Badminton(advance)	 |	0	 | 	T5T6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205026	 | 	Badminton(advance)	 |	0	 | 	T7T8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205018	 | 	Baseball	 |	0	 | 	T5T6	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205030	 | 	Baseball	 |	0	 | 	T7T8	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206024	 | 	Baseball	 |	0	 | 	T5T6	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206035	 | 	Baseball	 |	0	 | 	T7T8	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205090	 | 	Basketball	 |	0	 | 	F3F4	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112016	 | 	Basketball	 |	0	 | 	M7M8	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206092	 | 	Basketball	 |	0	 | 	F3F4	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205059	 | 	Basketball(advance)	 |	0	 | 	W7W8	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205070	 | 	Basketball(advance)	 |	0	 | 	R5R6	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205080	 | 	Basketball(advance)	 |	0	 | 	R7R8	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206058	 | 	Basketball(advance)	 |	0	 | 	W7W8	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206069	 | 	Basketball(advance)	 |	0	 | 	R5R6	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206079	 | 	Basketball(advance)	 |	0	 | 	R7R8	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205017	 | 	Basketball(basic)	 |	0	 | 	T5T6	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205029	 | 	Basketball(basic)	 |	0	 | 	T7T8	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205042	 | 	Basketball(basic)	 |	0	 | 	W3W4	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205050	 | 	Basketball(basic)	 |	0	 | 	W5W6	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205087	 | 	Basketball(basic)	 |	0	 | 	F1F2	 | 	Outside basketball court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206011	 | 	Basketball(basic)	 |	0	 | 	T1T2	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206023	 | 	Basketball(basic)	 |	0	 | 	T5T6	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206034	 | 	Basketball(basic)	 |	0	 | 	T7T8	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206050	 | 	Basketball(basic)	 |	0	 | 	W5W6	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206087	 | 	Basketball(basic)	 |	0	 | 	F1F2	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205001	 | 	Core Strength	 |	0	 | 	M1M2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Strength
+10510PE 205004	 | 	Core Strength	 |	0	 | 	M3M4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206006	 | 	Core Strength(advance)	 |	0	 | 	M3M4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206001	 | 	Core Strength(basic)	 |	0	 | 	M1M2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 112009	 | 	Dance Improvisation	 |	0	 | 	M5M6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 112018	 | 	Dance Improvisation	 |	0	 | 	M7M8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205075	 | 	Exercise walking and jogging	 |	0	 | 	R5R6	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205085	 | 	Exercise walking and jogging	 |	0	 | 	R7R8	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 112008	 | 	Exercise walking and jogging	 |	0	 | 	M5M6	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 112017	 | 	Exercise walking and jogging	 |	0	 | 	M7M8	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 206074	 | 	Exercise walking and jogging	 |	0	 | 	R5R6	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 206084	 | 	Exercise walking and jogging	 |	0	 | 	R7R8	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205038	 | 	fat burn	 |	0	 | 	W3W4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205048	 | 	fat burn	 |	0	 | 	W5W6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 206045	 | 	fat burn	 |	0	 | 	W3W4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 206048	 | 	fat burn	 |	0	 | 	W5W6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205016	 | 	Football	 |	0	 | 	T5T6	 | 	PEC football field	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205028	 | 	Football	 |	0	 | 	T7T8	 | 	PEC football field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206022	 | 	Football	 |	0	 | 	T5T6	 | 	PEC football field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206033	 | 	Football	 |	0	 | 	T7T8	 | 	PEC football field	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205013	 | 	Golf	 |	0	 | 	T3T4	 | 	PEC Sports Audiovisual	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205024	 | 	Golf	 |	0	 | 	T5T6	 | 	PEC Sports Audiovisual	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205073	 | 	Golf	 |	0	 | 	R5R6	 | 	PEC Sports Audiovisual	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205083	 | 	Golf	 |	0	 | 	R7R8	 | 	PEC Sports Audiovisual	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206018	 | 	Golf	 |	0	 | 	T3T4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206030	 | 	Golf	 |	0	 | 	T5T6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206072	 | 	Golf	 |	0	 | 	R5R6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206082	 | 	Golf	 |	0	 | 	R7R8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205051	 | 	Ironman Triathlon	 |	0	 | 	W5W6	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206053	 | 	Ironman Triathlon	 |	0	 | 	W5W6	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Strength
+10510PE 205071	 | 	Jazz Dance	 |	0	 | 	R5R6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205081	 | 	Jazz Dance	 |	0	 | 	R7R8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 206070	 | 	Jazz Dance	 |	0	 | 	R5R6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 206080	 | 	Jazz Dance	 |	0	 | 	R7R8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205047	 | 	Judo	 |	0	 | 	W5W6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Martial
+10510PE 205056	 | 	Judo	 |	0	 | 	W7W8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Martial
+10520PE 112021	 | 	Karate	 |	0	 | 	F5F6	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10520PE 206090	 | 	Karate	 |	0	 | 	F3F4	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10510PE 205025	 | 	Orienteering	 |	0	 | 	T5T6	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205035	 | 	Orienteering	 |	0	 | 	T7T8	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205044	 | 	Orienteering	 |	0	 | 	W5W6	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205053	 | 	Orienteering	 |	0	 | 	W7W8	 | 	PEC track and field	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 206047	 | 	Orienteering	 |	0	 | 	W5W6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 206055	 | 	Orienteering	 |	0	 | 	W7W8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 111027	 | 	Physical Education	 |	0	 | 	F7F8	 | 	 - 	 | 	Required	 | 	 - 	 | 	 - 
+10510PE 205072	 | 	Physical Training::san da	 |	0	 | 	R5R6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205082	 | 	Physical Training::san da	 |	0	 | 	R7R8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 206071	 | 	Physical Training::san da	 |	0	 | 	R5R6	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	WalkRun
+10520PE 206081	 | 	Physical Training::san da	 |	0	 | 	R7R8	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	WalkRun
+10510PE 205074	 | 	Ping pong (advance)	 |	0	 | 	R5R6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205084	 | 	Ping pong (advance)	 |	0	 | 	R7R8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206073	 | 	Ping pong (advance)	 |	0	 | 	R5R6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206083	 | 	Ping pong (advance)	 |	0	 | 	R7R8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205005	 | 	Ping pong(basic)	 |	0	 | 	T1T2	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205009	 | 	Ping pong(basic)	 |	0	 | 	T3T4	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205019	 | 	Ping pong(basic)	 |	0	 | 	T5T6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205031	 | 	Ping pong(basic)	 |	0	 | 	T7T8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205040	 | 	Ping pong(basic)	 |	0	 | 	W3W4	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205045	 | 	Ping pong(basic)	 |	0	 | 	W5W6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205054	 | 	Ping pong(basic)	 |	0	 | 	W7W8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205086	 | 	Ping pong(basic)	 |	0	 | 	F1F2	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205089	 | 	Ping pong(basic)	 |	0	 | 	F3F4	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112006	 | 	Ping pong(basic)	 |	0	 | 	M5M6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112014	 | 	Ping pong(basic)	 |	0	 | 	M7M8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112020	 | 	Ping pong(basic)	 |	0	 | 	F5F6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112025	 | 	Ping pong(basic)	 |	0	 | 	F7F8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206002	 | 	Ping pong(basic)	 |	0	 | 	M1M2	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206007	 | 	Ping pong(basic)	 |	0	 | 	M3M4	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206008	 | 	Ping pong(basic)	 |	0	 | 	T1T2	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206012	 | 	Ping pong(basic)	 |	0	 | 	T3T4	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206025	 | 	Ping pong(basic)	 |	0	 | 	T5T6	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206036	 | 	Ping pong(basic)	 |	0	 | 	T7T8	 | 	PEC table	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205095	 | 	Pop Dance	 |	0	 | 	F5F6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205096	 | 	Pop Dance	 |	0	 | 	F7F8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 112023	 | 	Pop Dance	 |	0	 | 	F5F6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10520PE 112026	 | 	Pop Dance	 |	0	 | 	F7F8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Dance
+10510PE 205067	 | 	Softball	 |	0	 | 	R5R6	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205076	 | 	Softball	 |	0	 | 	R7R8	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112005	 | 	Softball	 |	0	 | 	M5M6	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112013	 | 	Softball	 |	0	 | 	M7M8	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206066	 | 	Softball	 |	0	 | 	R5R6	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206075	 | 	Softball	 |	0	 | 	R7R8	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206051	 | 	Softball(advance)	 |	0	 | 	W5W6	 | 	PEC baseball field	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205022	 | 	Swimming(advance)	 |	0	 | 	T5T6	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 112015	 | 	Swimming(advance)	 |	0	 | 	M7M8	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206028	 | 	Swimming(advance)	 |	0	 | 	T5T6	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205002	 | 	Swimming(basic)	 |	0	 | 	M3M4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205010	 | 	Swimming(basic)	 |	0	 | 	T3T4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205041	 | 	Swimming(basic)	 |	0	 | 	W3W4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205077	 | 	Swimming(basic)	 |	0	 | 	R7R8	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 112007	 | 	Swimming(basic)	 |	0	 | 	M5M6	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206003	 | 	Swimming(basic)	 |	0	 | 	M3M4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206015	 | 	Swimming(basic)	 |	0	 | 	T3T4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206043	 | 	Swimming(basic)	 |	0	 | 	W3W4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206076	 | 	Swimming(basic)	 |	0	 | 	R7R8	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205093	 | 	Tae kwon do	 |	0	 | 	M7M8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Martial
+10520PE 112003	 | 	Tae kwon do	 |	0	 | 	M5M6	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10520PE 112011	 | 	Tae kwon do	 |	0	 | 	M7M8	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10510PE 205023	 | 	Tai Chi	 |	0	 | 	T5T6	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10510PE 205034	 | 	Tai Chi	 |	0	 | 	T7T8	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10520PE 206029	 | 	Tai Chi	 |	0	 | 	T5T6	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10520PE 206039	 | 	Tai Chi	 |	0	 | 	T7T8	 | 	STC Mengmin 101	 | 	Optional	 | 	 - 	 | 	Martial
+10510PE 205015	 | 	Tennis(advance)	 |	0	 | 	T5T6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205027	 | 	Tennis(advance)	 |	0	 | 	T7T8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205058	 | 	Tennis(advance)	 |	0	 | 	W7W8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205079	 | 	Tennis(advance)	 |	0	 | 	R7R8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206021	 | 	Tennis(advance)	 |	0	 | 	T5T6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206032	 | 	Tennis(advance)	 |	0	 | 	T7T8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206057	 | 	Tennis(advance)	 |	0	 | 	W7W8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206078	 | 	Tennis(advance)	 |	0	 | 	R7R8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205008	 | 	Tennis(basic)	 |	0	 | 	T3T4	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205049	 | 	Tennis(basic)	 |	0	 | 	W5W6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205062	 | 	Tennis(basic)	 |	0	 | 	R1R2	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205065	 | 	Tennis(basic)	 |	0	 | 	R3R4	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205069	 | 	Tennis(basic)	 |	0	 | 	R5R6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112004	 | 	Tennis(basic)	 |	0	 | 	M5M6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112012	 | 	Tennis(basic)	 |	0	 | 	M7M8	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112022	 | 	Tennis(basic)	 |	0	 | 	F5F6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206013	 | 	Tennis(basic)	 |	0	 | 	T3T4	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206049	 | 	Tennis(basic)	 |	0	 | 	W5W6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206061	 | 	Tennis(basic)	 |	0	 | 	R1R2	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206064	 | 	Tennis(basic)	 |	0	 | 	R3R4	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206068	 | 	Tennis(basic)	 |	0	 | 	R5R6	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206091	 | 	Tennis(basic)	 |	0	 | 	F3F4	 | 	PEC tennis court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205003	 | 	Volleyball	 |	0	 | 	M3M4	 | 	Outside volleyball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205012	 | 	Volleyball	 |	0	 | 	T3T4	 | 	Outside volleyball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205043	 | 	Volleyball	 |	0	 | 	W5W6	 | 	Outside volleyball court	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205052	 | 	Volleyball	 |	0	 | 	W7W8	 | 	Outside volleyball court	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 112001	 | 	Volleyball	 |	0	 | 	M5M6	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206004	 | 	Volleyball	 |	0	 | 	M3M4	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206017	 | 	Volleyball	 |	0	 | 	T3T4	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206044	 | 	Volleyball	 |	0	 | 	W3W4	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206046	 | 	Volleyball	 |	0	 | 	W5W6	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10520PE 206054	 | 	Volleyball	 |	0	 | 	W7W8	 | 	PEC Stadium 2F	 | 	Optional	 | 	 - 	 | 	Ball
+10510PE 205006	 | 	Vortex Aerobics	 |	0	 | 	T1T2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205037	 | 	Vortex Aerobics	 |	0	 | 	F3F4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205094	 | 	Vortex Aerobics	 |	0	 | 	M7M8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206010	 | 	Vortex Aerobics	 |	0	 | 	T1T2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206041	 | 	Vortex Aerobics	 |	0	 | 	W1W2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205088	 | 	Water aerobics	 |	0	 | 	F1F2	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205091	 | 	Water aerobics	 |	0	 | 	F3F4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206086	 | 	Water aerobics	 |	0	 | 	F1F2	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10520PE 206089	 | 	Water aerobics	 |	0	 | 	F3F4	 | 	PEC swimming pool	 | 	Optional	 | 	 - 	 | 	Water
+10510PE 205020	 | 	Weight Training	 |	0	 | 	T5T6	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10510PE 205032	 | 	Weight Training	 |	0	 | 	T7T8	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10510PE 205060	 | 	Weight Training	 |	0	 | 	W7W8	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 112002	 | 	Weight Training	 |	0	 | 	M5M6	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 112010	 | 	Weight Training	 |	0	 | 	M7M8	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206005	 | 	Weight Training	 |	0	 | 	M3M4	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206009	 | 	Weight Training	 |	0	 | 	W1W2	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206014	 | 	Weight Training	 |	0	 | 	T3T4	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206016	 | 	Weight Training	 |	0	 | 	W3W4	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206026	 | 	Weight Training	 |	0	 | 	T5T6	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206037	 | 	Weight Training	 |	0	 | 	T7T8	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206052	 | 	Weight Training	 |	0	 | 	W5W6	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10520PE 206059	 | 	Weight Training	 |	0	 | 	W7W8	 | 	PEC retraining room	 | 	Optional	 | 	 - 	 | 	Strength
+10510PE 205021	 | 	Yoga	 |	0	 | 	T5T6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10510PE 205033	 | 	Yoga	 |	0	 | 	T7T8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10520PE 206019	 | 	Yoga(advance)	 |	0	 | 	T3T4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10520PE 206027	 | 	Yoga(basic)	 |	0	 | 	T5T6	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10520PE 206038	 | 	Yoga(basic)	 |	0	 | 	T7T8	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10510PE 205063	 | 	Yogalates	 |	0	 | 	R1R2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10510PE 205066	 | 	Yogalates	 |	0	 | 	R3R4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10520PE 206062	 | 	Yogalates	 |	0	 | 	R1R2	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10520PE 206065	 | 	Yogalates	 |	0	 | 	R3R4	 | 	PEC Alumni PE Museum	 | 	Optional	 | 	 - 	 | 	StretchRelax
+10520PE XXXXX	 | 	END	 | 	0	 | 	 - 	 | 	 - 	 | 	 - 	 | 	 - 	 | 	 - 

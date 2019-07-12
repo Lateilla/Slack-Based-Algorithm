@@ -1,0 +1,51 @@
+DEPARTMENT_REQUIREMENTS
+totalCredits: 100
+numOfCourses: 0
+RequiredCredits: 52
+CS_CatA_Switch: 1
+CS_CatA_Credits: 3
+CS_CatB_Switch: 1
+CS_CatB_Credits: 6
+CS_CatC_Switch: 1
+CS_CatC_Credits: 6
+profElectives_Switch: 1
+profElectivesCredits: 21
+otherElectivesCredits: 12
+
+SERVICE_REQUIREMENTS
+totalCredits: 0
+numOfCourses: 2
+studentService_Switch: 1
+serviceSemesterCourseLimit: 1
+serviceCoursesRemaining: 2
+
+LANGUAGE_REQUIREMENTS
+totalCredits: 8
+numOfCourses: 0
+collegeChinese_Switch: 1
+chineseSemesterCourseLimit: 1
+collegeChineseCredits: 2
+collegeEnglish_Switch: 1
+englishSemesterCourseLimit: 1
+collegeEnglishCredits: 6
+
+PE_REQUIREMENTS
+totalCredits: 0
+numOfCourses: 6
+PE_Switch: 1
+PE_SemesterCourseLimit: 1
+PE_CoursesRemaining: 6
+
+GE_REQUIREMENTS
+totalCredits: 0
+numOfCourses: 9
+GE_Core_Switch: 1
+GE_CoreSemesterCourseLimit: 1
+GE_CoreCoursesRemaining: 5
+GE_ElectivesRemaining: 4
+GE_Humanities_Switch: 1
+GE_SocialSciences_Switch: 1
+GE_NaturalSciences_Switch: 0
+otherGE_Switch: 0
+otherGE_Credits: 12
+

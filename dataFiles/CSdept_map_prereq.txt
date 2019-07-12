@@ -1,0 +1,82 @@
+Calculus I                                                   	 |	Calculus II
+Calculus II                                                   	 |	Design and Analysis of Algorithms
+Calculus II                                                   	 |	Probability                                                  
+Calculus II                                                  	 |	Engineering Mathematics                                      
+General Physics B (I)                                        	 |	General Physics B (II)   
+General Physics B (I)                                        	 |	Circuits and Electronics (I) 
+Introduction to Programming (I)                              	 |	Introduction to Programming (II)                             
+Introduction to Programming (II)                             	 |	Data Structures                                              
+Data Structures                                              	 |	Introduction to Internet of Things and Applications
+Data Structures                                              	 |	Introduction to Computer Networks                            
+Data Structures                                              	 |	Introduction to Communication                                
+Data Structures                                              	 |	Software Studio                                              
+Discrete Mathematics                                         	 |	Probability                                                 
+Software Studio                                              	 |	Operating Systems                                            
+Software Studio                                              	 |	Competitive Programming Training
+Software Studio                                              	 |	Computer System Administration
+Software Studio                                              	 |	Programming Top Ten Important Algorithms in Python
+Digital Logic Design                                         	 |	Hardware Design and Lab                                      
+Digital Logic Design                                         	 |	Computer Architecture                                        
+Linear Algebra                                               	 |	Introduction to Multimedia                                   
+Linear Algebra                                               	 |	Design and Analysis of Algorithms 
+Computer Architecture                                        	 |	Operating Systems                                            
+Computer Architecture                                        	 |	Parallel Computer Architecture
+Hardware Design and Lab                                      	 |	Digital System Design                                        
+Hardware Design and Lab                                      	 |	Introduction to Integrated Circuit Design                    
+Hardware Design and Lab                                      	 |	Introduction to Computer-Aided Design of Integrated Circuits 
+Probability                                                  	 |	Design and Analysis of Algorithms                            
+Probability                                                  	 |	Scientific Computing                                         
+Operating Systems                                            	 |	Scientific Computing                                         
+Operating Systems                                            	 |	Advanced UNIX Programming                                    
+Operating Systems                                            	 |	System Integration Implementation I                          
+Operating Systems                                            	 |	Introduction to Database Systems                             
+Operating Systems                                            	 |	Formal Language & Automata                                   
+Operating Systems                                            	 |	Introduction to Intelligent Computing                        
+Operating Systems                                            	 |	Network Programming                                          
+Operating Systems                                            	 |	Cloud Programming                                            
+Operating Systems                                            	 |	Introduction to Embedded Systems                             
+Operating Systems                                            	 |	Cryptography and Network Security                            
+Operating Systems                                            	 |	Introduction to Graphics Programming and Applications
+Design and Analysis of Algorithms                            	 |	Introduction to Graphics Programming and Applications
+Design and Analysis of Algorithms                            	 |	Introduction to Computer-Aided Design of Integrated Circuits 
+Design and Analysis of Algorithms                            	 |	Cryptography and Network Security                            
+Design and Analysis of Algorithms                            	 |	Cloud Programming                                            
+Design and Analysis of Algorithms                            	 |	Network Programming                                          
+Design and Analysis of Algorithms                            	 |	Introduction to Intelligent Computing                        
+Design and Analysis of Algorithms                            	 |	Formal Language & Automata                                   
+Design and Analysis of Algorithms                            	 |	System Integration Implementation I                          
+Design and Analysis of Algorithms                            	 |	Compiler Design                                              
+Design and Analysis of Algorithms                            	 |	Software Engineering                                         
+Design and Analysis of Algorithms                            	 |	Introduction to Embedded Systems                             
+Design and Analysis of Algorithms                            	 |	Parallel Programming                                         
+Design and Analysis of Algorithms                            	 |	Parallel Computer Architecture
+System Integration Implementation I                          	 |	System Integration Implementation II                         
+Introduction to Computer Networks                            	 |	Cryptography and Network Security                            
+Introduction to Computer Networks                            	 |	Cloud Programming                                            
+Introduction to Computer Networks                            	 |	Network Programming                                          
+Introduction to Communication                                	 |	Cloud Programming                                            
+Introduction to Communication                                	 |	Network Programming                                          
+Circuits and Electronics (I)                                 	 |	Introduction to Integrated Circuit Design                    
+Circuits and Electronics (I)                                 	 |	Digital System Design                                        
+Circuits and Electronics (I)                                 	 |	Introduction to Embedded Systems                             
+Introduction to Integrated Circuit Design                    	 |	Introduction to Embedded Systems                             
+Introduction to Multimedia                                   	 | 	Introduction to Image Processing                             
+Competitive Programming Training	 | 	Competitive Programming Training (II)
+Introduction to Internet of Things and Applications	 | 	Introduction to Internet of Things
+Cloud Programming                                            	 |	Cloud Computing
+Cloud Programming                                            	 |	Cloud Databases
+System Integration Implementation II                         	 |	Advanced Computer Architecture
+System Integration Implementation II                         	 |	Advanced Data Structure
+System Integration Implementation II                         	 |	Computer Graphics
+System Integration Implementation II                         	 |	Development Software Tools for Embedded Systems
+System Integration Implementation II                         	 |	Electronic System Level Design
+System Integration Implementation II                         	 |	Graph Theory
+System Integration Implementation II                         	 |	High-Tech Entrepreneurship
+System Integration Implementation II                         	 |	Introduction to Massive Data Analysis
+System Integration Implementation II                         	 |	Introduction to System-on-Chip and its Applications
+System Integration Implementation II                         	 |	IoT Security Technologies and Practices
+System Integration Implementation II                         	 |	Natural Language Processing
+System Integration Implementation II                         	 |	Pattern Recognition
+System Integration Implementation II                         	 |	Queuing Theory
+System Integration Implementation II                         	 |	Stochastic Processes for Networking
+System Integration Implementation II                         	 |	Wireless Multimedia Networking Technologies and Applications

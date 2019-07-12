@@ -1,0 +1,356 @@
+10520HIS 261100	 | 	A History of Medieval England	 | 	2	 | 	W3W4	 | 	HSSD301	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 178200	 | 	Acupuncture and Modern Sciences	 | 	3	 | 	R2R3R4	 | 	EDU 310	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 178200	 | 	Acupuncture and Modern Sciences	 | 	3	 | 	W2W3W4	 | 	EDU 311	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 126300	 | 	American Politics	 | 	2	 | 	T3T4	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520HSS 323100	 | 	Analytic Philosophy	 | 	3	 | 	R3R4Rn	 | 	HSSC403A	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GE 150600	 | 	Appreciation of Art Performing	 | 	2	 | 	M5M6	 | 	MXIC245	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 150600	 | 	Appreciation of Art Performing	 | 	2	 | 	M5M6	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 122600	 | 	Appreciation of Music (II)	 | 	2	 | 	M7M8	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 101600	 | 	Art and Esthetics Study	 | 	2	 | 	M7M8	 | 	MXIC253	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 101600	 | 	Art and Esthetics Study	 | 	2	 | 	M7M8	 | 	EDU 314	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GEC 130401	 | 	Art and Society	 | 	3	 | 	T7T8T9	 | 	EDU 314	 | 	Optional	 | 	GE_core3	 | 	-
+10510GEC 130402	 | 	Art and Society	 | 	3	 | 	W3W4Wn	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	-
+10510GEC 130403	 | 	Art and Society	 | 	3	 | 	R7R8R9	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 130401	 | 	Art and Society	 | 	3	 | 	T7T8T9	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	 - 
+10520GEC 130402	 | 	Art and Society	 | 	3	 | 	W7W8W9	 | 	EDU 314	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GE 114600	 | 	Art Project	 | 	1	 | 	WaWb	 | 	 - 	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 114600	 | 	Art Project	 | 	1	 | 	WaWb	 | 	 - 	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 125700	 | 	Bible and Life	 | 	2	 | 	W5W6	 | 	MXIC253	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520GE 125700	 | 	Bible and Life	 | 	2	 | 	W5W6	 | 	MXIC253	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510LS 114000	 | 	Bioethics	 | 	2	 | 	W3W4	 | 	LS II 113	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 103200	 | 	Biomimetics and Modern Science and Engineering	 | 	2	 | 	M3M4	 | 	EDU 314	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 103200	 | 	Biomimetics and Modern Science and Engineering	 | 	2	 | 	M5M6	 | 	EDU 314	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 198400	 | 	Border, Identity, and Transnational Migration	 | 	2	 | 	W7W8	 | 	EDU 307	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 101102	 | 	Central Problems in Philosophy	 | 	3	 | 	M3M4Mn	 | 	HSSC404	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GE 142600	 | 	Chinese Art and Archaeology	 | 	2	 | 	R7R8	 | 	EDU 314	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 107200	 | 	Chinese Herbology and Modern Sciences & Technologies	 | 	3	 | 	F3F4Fn	 | 	EDU 311	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 107200	 | 	Chinese Herbology and Modern Sciences & Technologies	 | 	3	 | 	F2F3F4	 | 	EDU 310	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 125600	 | 	Chinese Instrumental Music Appreciation	 | 	2	 | 	M7M8	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 125600	 | 	Chinese Instrumental Music Appreciation	 | 	2	 | 	M5M6	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510HSS 310300	 | 	Chinese Intellectual and Cultural History	 | 	3	 | 	M7M8M9	 | 	HSSD203	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 131802	 | 	Chinese Modern Poetry	 | 	2	 | 	M5M6	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GE 131800	 | 	Chinese Modern Poetry	 | 	2	 | 	M5M6	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 103600	 | 	Chinese Music Introduction	 | 	2	 | 	M5M6	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 103600	 | 	Chinese Music Introduction	 | 	2	 | 	M3M4	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GEC 140100	 | 	Civil Society and Constitutional Democracy	 | 	3	 | 	T2T3T4	 | 	EDU 314	 | 	Optional	 | 	GE_core4	 | 	-
+10520GEC 140101	 | 	Civil Society and Constitutional Democracy	 | 	3	 | 	T3T4Tn	 | 	EDU 314	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520GEC 140102	 | 	Civil Society and Constitutional Democracy	 | 	3	 | 	M7M8M9	 | 	EDU 309	 | 	Optional	 | 	GE_core4	 | 	 - 
+10510GEC 130600	 | 	Classic of Art : Analysis of Taiwan Cinema	 | 	3	 | 	W7W8W9	 | 	DELTA108	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 130600	 | 	Classic of Art : Analysis of Taiwan Cinema	 | 	3	 | 	W7W8W9	 | 	MXIC245	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GEC 130700	 | 	Classic of Literature: Selection from Classics in Taiwanese Literature	 | 	3	 | 	M5M6M7	 | 	HSSC204	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 110700	 | 	Classics of Western Thought: Classics of Existentialism	 | 	3	 | 	T3T4Tn	 | 	EDU 310	 | 	Optional	 | 	GE_core1	 | 	 - 
+10510GE 109601	 | 	Clay Work	 | 	2	 | 	M1M2M3M4	 | 	EDU	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 109602	 | 	Clay Work	 | 	2	 | 	M5M6M7M8	 | 	EDU	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 109603	 | 	Clay Work	 | 	2	 | 	T5T6T7T8	 | 	EDU	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 109601	 | 	Clay Work	 | 	2	 | 	M1M2M3M4	 | 	EDU	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 109602	 | 	Clay Work	 | 	2	 | 	M5M6M7M8	 | 	EDU	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 109603	 | 	Clay Work	 | 	2	 | 	T5T6T7T8	 | 	EDU	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510CHE 453000	 | 	Climate Change	 | 	3	 | 	F2F3F4	 | 	CHE202	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10520HSS 313800	 | 	Commercial Media, Science, and Technology in the Port-Cities of 19th Century East Asia	 | 	3	 | 	T5T6T7	 | 	HSSD203	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GEC 120100	 | 	Contemporary Biology and Your Life	 | 	2	 | 	W7W8	 | 	LS II	 | 	Optional	 | 	GE_core2	 | 	 - 
+10510LS 114300	 | 	Contemporary Cognitive Neuroscience: Brain and Mind	 | 	2	 | 	T7T8	 | 	LS II	 | 	Optional	 | 	GE_core2	 | 	-
+10510CL 490900	 | 	Contemporary Drama	 | 	3	 | 	R3R4Rn	 | 	HSSC509	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520HSS 221100	 | 	Contemporary Japanese Philosophy	 | 	3	 | 	M3M4Mn	 | 	HSSC204	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GEC 110100	 | 	Contemporary Scientific Civilization	 | 	3	 | 	W9WaWb	 | 	EDU 309	 | 	Optional	 | 	GE_core1	 | 	-
+10520GEC 110100	 | 	Contemporary Scientific Civilization	 | 	3	 | 	W9WaWb	 | 	EDU 309	 | 	Optional	 | 	GE_core1	 | 	 - 
+10520HIS 111000	 | 	Continuity and Change in Chinese History (II)	 | 	2	 | 	T5T6	 | 	MXIC245	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510HIS 110900	 | 	Continuity and Change in the Chinese History	 | 	2	 | 	T5T6	 | 	MXIC245	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520HSS 211200	 | 	Continuity and Severance: History of the Liao, Chin and Yuan Dynasties, 907-1368	 | 	3	 | 	W3W4Wn	 | 	HSSD202	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GE 126500	 | 	Corporate Cultures	 | 	2	 | 	T1T2	 | 	MXIC253	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 150300	 | 	Country Liability and Compensation	 | 	2	 | 	W7W8	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510GEC 110201	 | 	Critical Thinking	 | 	3	 | 	F2F3F4	 | 	EDU 314	 | 	Optional	 | 	GE_core1	 | 	-
+10510GEC 110202	 | 	Critical Thinking	 | 	3	 | 	R2R3R4	 | 	EDU 311	 | 	Optional	 | 	GE_core1	 | 	-
+10520GEC 110201	 | 	Critical Thinking	 | 	3	 | 	W3W4Wn	 | 	EDU 309	 | 	Optional	 | 	GE_core1	 | 	 - 
+10510GE 132700	 | 	Cross-border and Exploration	 | 	2	 | 	M5M6	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GEC 130501	 | 	Culture Creativity and New Media	 | 	2	 | 	W5W6	 | 	DELTA108	 | 	Optional	 | 	GE_core3	 | 	-
+10510GE 158400	 | 	Current important issues in international Relations	 | 	2	 | 	W7W8	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 158400	 | 	Current important issues in international Relations	 | 	2	 | 	R1R2	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520BME 200100	 | 	Daily Biomedical Engineering	 | 	3	 | 	W9WaWb	 | 	EDU 311	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 106600	 | 	Design Drawing	 | 	2	 | 	R5R6R7R8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 106600	 | 	Design Drawing	 | 	2	 | 	R5R6R7R8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GEC 160900	 | 	Dialogue with Classics:Selections from the Prose of Han Yu	 | 	3	 | 	M2M3M4	 | 	TSMC206	 | 	Optional	 | 	GE_core3	 | 	-
+10510GEC 160800	 | 	Dialogue with Classics:Selections from the Prose of Ouyang Xiu	 | 	3	 | 	M5M6M7	 | 	TSMC206	 | 	Optional	 | 	GE_core3	 | 	-
+10510ECON100300	 | 	Economics101	 | 	3	 | 	M7M8M9	 | 	TSMC309	 | 	Optional	 | 	GE_core4	 | 	-
+10510GEC 120200	 | 	Eco-system and Global Changes	 | 	2	 | 	M3M4	 | 	EDU 310	 | 	Optional	 | 	GE_core2	 | 	-
+10520GEC 120200	 | 	Eco-system and Global Changes	 | 	2	 | 	T7T8	 | 	EDU 311	 | 	Optional	 | 	GE_core2	 | 	 - 
+10510TE 202101	 | 	Educational Psychology	 | 	2	 | 	T3T4	 | 	EDU 305	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 108600	 | 	Element of Art	 | 	2	 | 	T5T6T7T8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 108600	 | 	Element of Art	 | 	2	 | 	T5T6T7T8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 100200	 | 	Engineering Ethics	 | 	2	 | 	W5W6	 | 	DELTA	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10510HSS 220300	 | 	Ethics	 | 	3	 | 	T3T4Tn	 | 	HSSC403A	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GE 180200	 | 	Exercise and Health	 | 	2	 | 	M1M2	 | 	EDU 309	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 180200	 | 	Exercise and Health	 | 	2	 | 	M1M2	 | 	MXIC253	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 156600	 | 	Exploring Digital Performances and Practice	 | 	2	 | 	F5F6	 | 	ENG I 202	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 186400	 | 	Food Safety and Life	 | 	3	 | 	R7R8R9	 | 	MXIC346	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 156400	 | 	Food: From Earth to Table	 | 	2	 | 	M3M4	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 111300	 | 	Foreign Relations of Republic of China, 1912-now	 | 	2	 | 	T5T6	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 111300	 | 	Foreign Relations of Republic of China, 1912-now	 | 	2	 | 	T5T6	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 122400	 | 	Freedom and Action	 | 	2	 | 	WaWb	 | 	D-Ren	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 370100	 | 	Gender and Religion	 | 	3	 | 	W2W3W4	 | 	HSSC205	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 391000	 | 	Gender and Writing	 | 	3	 | 	T3T4Tn	 | 	HSSC507	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 139400	 | 	Gender Thinking	 | 	3	 | 	M7M8M9	 | 	EDU 307	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520HSS 373200	 | 	Genders, Bodies and Time in Science Fiction	 | 	3	 | 	M7M8M9	 | 	HSSD202	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510PHYS241000	 | 	General Astronomy (I)	 | 	3	 | 	M7M8M9	 | 	PHYS 019	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10520PHYS242000	 | 	General Astronomy (II)	 | 	3	 | 	M7M8M9	 | 	PHYS 019	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10510GEC 140400	 | 	Global Political Economy	 | 	3	 | 	W2W3W4	 | 	EDU 309	 | 	Optional	 | 	GE_core4	 | 	-
+10520GEC 140400	 | 	Global Political Economy	 | 	3	 | 	R3R4Rn	 | 	EDU 309	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520BMES432200	 | 	Global Warming and Environmental Impact	 | 	2	 | 	R7R8	 | 	BMES301	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10520GE 185200	 | 	Green Energy	 | 	3	 | 	R2R3R4	 | 	MXIC253	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10520GE 138500	 | 	Having Fun with Economic History	 | 	3	 | 	M2M3M4	 | 	EDU 307	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520HIS 233700	 | 	Historical Thinking	 | 	2	 | 	T3T4	 | 	HSSD202	 | 	Optional	 | 	GE_core6	 | 	 - 
+10520HIS 212600	 | 	Historiography of Tzu-chih t'ung-chien: Narratives of the Decline and Fall of Western Jin Dynasty	 | 	2	 | 	R5R6	 | 	EDU 307	 | 	Optional	 | 	GE_core6	 | 	 - 
+10520HIS 211100	 | 	Historiography of Tzu-chih t'ung-chien: Narratives of warfare	 | 	2	 | 	F3F4	 | 	EDU 307	 | 	Optional	 | 	GE_core6	 | 	 - 
+10520HIS 233601	 | 	History and Modern World: Shaping of Modern China	 | 	3	 | 	M2M3M4	 | 	HSSD301	 | 	Optional	 | 	GE_core6	 | 	 - 
+10520HIS 233602	 | 	History and Modern World: Shaping of Modern China	 | 	3	 | 	T2T3T4	 | 	HSSD301	 | 	Optional	 | 	GE_core6	 | 	 - 
+10510HIS 233300	 | 	History and the Modern World: the Making of the Modern World	 | 	2	 | 	T5T6	 | 	MXIC253	 | 	Optional	 | 	GE_core6	 | 	-
+10520HIS 233300	 | 	History and the Modern World: the Making of the Modern World	 | 	2	 | 	T5T6	 | 	HSSC411	 | 	Optional	 | 	GE_core6	 | 	 - 
+10510GE 116600	 | 	History of Chinese Crafts and Decorative Arts	 | 	2	 | 	R5R6	 | 	EDU 314	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 116600	 | 	History of Chinese Crafts and Decorative Arts	 | 	2	 | 	R5R6	 | 	EDU 314	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510HSS 310400	 | 	History of Monsoon Asia	 | 	3	 | 	F3F4Fn	 | 	HSSB413	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520HSS 310600	 | 	History of Science and Technology	 | 	3	 | 	R7R8R9	 | 	HSSA302	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 124600	 | 	History of Western Music	 | 	3	 | 	W3W4Wn	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 124600	 | 	History of Western Music	 | 	3	 | 	W3W4Wn	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520HSS 323000	 | 	History of Western Philosophy 1	 | 	3	 | 	W3W4Wn	 | 	HSSC204	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510HIS 233100	 | 	How to learn and think history?	 | 	2	 | 	W1W2	 | 	EDU 307	 | 	Optional	 | 	GE_core6	 | 	-
+10510TE 224400	 | 	Human Relations and Communication	 | 	2	 | 	R3R4	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 136500	 | 	Human Resource Management-- fundamentals and Practice	 | 	2	 | 	T5T6	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 136500	 | 	Human Resource Management-- fundamentals and Practice	 | 	2	 | 	R3R4	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510BMES433100	 | 	Impact of Global Energy Shortage	 | 	2	 | 	R7R8	 | 	BMES301	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10510GE 151400	 | 	India Civilization and Contemporary Society	 | 	2	 | 	W5W6	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 151400	 | 	India Civilization and Contemporary Society	 | 	2	 | 	R7R8	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 197200	 | 	Industrial & Social Aspects of IC Design	 | 	3	 | 	M7M8M9	 | 	DELTA210	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10510GE 140500	 | 	Industry Innovation and Career development	 | 	2	 | 	TaTb	 | 	D-Shi	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510GE 115500	 | 	Innovation and Entrepreneurship	 | 	2	 | 	T5T6	 | 	DELTA105	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10520HSS 300200	 | 	Interdisciplinary Dialogue: Social Science	 | 	3	 | 	M7M8M9	 | 	HSSD302	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 187200	 | 	Interdiscipline Viewpoint of Chinese Medicine	 | 	2	 | 	T1T2	 | 	EDU 310	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 108200	 | 	Interesting physics from daily life to scientific fantasies	 | 	2	 | 	WaWb	 | 	EDU 305	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 108200	 | 	Interesting physics from daily life to scientific fantasies	 | 	2	 | 	WaWb	 | 	EDU 313	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 149300	 | 	International Law Stories	 | 	2	 | 	W7W8	 | 	MXIC245	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510GE 147300	 | 	International Political and Economic Organizations under Global Governance: Extended Study on ROC's	 | 	2	 | 	T7T8	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 102600	 | 	Introduction of documentary	 | 	3	 | 	W3W4Wn	 | 	EDU 211	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 134500	 | 	Introduction to Advertising	 | 	2	 | 	T3T4	 | 	MXIC253	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520HSS 310500	 | 	Introduction to Art History	 | 	3	 | 	M7M8M9	 | 	HSSC204	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510HSS 150000	 | 	Introduction to Cultural Anthropology	 | 	3	 | 	T2T3T4	 | 	HSSC204	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 183200	 | 	Introduction to exercise science	 | 	2	 | 	M3M4	 | 	EDU 309	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 183200	 | 	Introduction to exercise science	 | 	2	 | 	M3M4	 | 	MXIC253	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510HSS 270000	 | 	Introduction to Gender Studies	 | 	3	 | 	R7R8R9	 | 	HSSC404	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 110000	 | 	Introduction to History	 | 	3	 | 	T7T8T9	 | 	HSSB413	 | 	Optional	 | 	GE_core6	 | 	-
+10510GE 107300	 | 	Introduction to Intellectual Property	 | 	2	 | 	R7R8	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 133500	 | 	Introduction to Interaction design	 | 	3	 | 	W3W4Wn	 | 	EDU 313	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510GE 199400	 | 	Introduction to Journalism	 | 	2	 | 	T1T2	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520HSS 130000	 | 	Introduction to Linguistics	 | 	3	 | 	M7M8M9	 | 	HSSC404	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 185400	 | 	Introduction to Mass Communication	 | 	2	 | 	T3T4	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510HSS 180000	 | 	Introduction to Politics	 | 	3	 | 	W3W4Wn	 | 	HSSC404	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 140000	 | 	Introduction to Sociology	 | 	3	 | 	W7W8W9	 | 	HSSA202	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 138300	 | 	Introduction to the European Union	 | 	2	 | 	M3M4	 | 	EDU 313	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510GEC 150400	 | 	Introduction to the History of Pre-Modern Science	 | 	3	 | 	T6T7T8	 | 	EDU 310	 | 	Optional	 | 	GE_core5	 | 	-
+10520GEC 150400	 | 	Introduction to the History of Pre-Modern Science	 | 	3	 | 	T6T7T8	 | 	EDU 310	 | 	Optional	 | 	GE_core5	 | 	 - 
+10510GE 123600	 | 	Introduction to World Music	 | 	2	 | 	T5T6	 | 	EDU 314	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 123600	 | 	Introduction to World Music	 | 	2	 | 	R5R6	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510LST 350301	 | 	Introductory Study of Law	 | 	3	 | 	T7T8T9	 | 	MXIC245	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510LST 350302	 | 	Introductory Study of Law	 | 	3	 | 	M7M8M9	 | 	TSMC224	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520HSS 201100	 | 	Issues in Cultural History of Scientific and Tech	 | 	3	 | 	W7W8W9	 | 	HSSA202	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10510HSS 371400	 | 	Justice: Investigating the Possibility of Equal Rights	 | 	3	 | 	F3F4Fn	 | 	HSSD203	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520HSS 371400	 | 	Justice: Investigating the Possibility of Equal Rights	 | 	3	 | 	T3T4Tn	 | 	HSSD203	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GEC 110600	 | 	Knowledge and Reality	 | 	3	 | 	T3T4Tn	 | 	EDU 309	 | 	Optional	 | 	GE_core1	 | 	 - 
+10520HSS 331500	 | 	Language, Meaning and Logic	 | 	3	 | 	R7R8R9	 | 	HSSC507	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510HSS 330100	 | 	Languages of the World	 | 	3	 | 	R7R8R9	 | 	HSSC205	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510LST 350100	 | 	Law and Technology	 | 	2	 | 	R3R4	 | 	MXIC253	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 149300	 | 	Learning the Rules of Taiwan's Copyright Law	 | 	2	 | 	R5R6	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520IPTH101000	 | 	Life as a Maker and Reflections on Craft	 | 	3	 | 	F3F4Fn	 | 	D-Shi	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10510GE 190400	 | 	Life Education:death and life	 | 	2	 | 	WaWb	 | 	EDU 316	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 311300	 | 	Literati Life in Late Imperial China	 | 	3	 | 	T3T4Tn	 | 	HSSD203	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520HSS 190000	 | 	Literature and Creation Introductory	 | 	3	 | 	W3W4Wn	 | 	HSSC404	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510HSS 220000	 | 	Logic	 | 	3	 | 	W3W4Wn	 | 	HSSC411	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510TM 200201	 | 	Management	 | 	3	 | 	T7T8T9	 | 	TSMC103	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510TM 200202	 | 	Management	 | 	3	 | 	W7W8W9	 | 	TSMC309	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510TM 200203	 | 	Management	 | 	3	 | 	R7R8R9	 | 	TSMC908	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520TM 200202	 | 	Management	 | 	3	 | 	W7W8W9	 | 	TSMC309	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510GE 137500	 | 	Management and Culture	 | 	2	 | 	R1R2	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510HIS 232700	 | 	Maritime History	 | 	2	 | 	F3F4	 | 	HSSD202	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 124500	 | 	Marketing Management	 | 	3	 | 	W7W8W9	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 124500	 | 	Marketing Management	 | 	3	 | 	M7M8M9	 | 	EDU 310	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520HSS 440500	 | 	Masculinities Studies	 | 	3	 | 	R7R8R9	 | 	HSSC403A	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GEC 110500	 | 	Mathematical and scientific thinking	 | 	2	 | 	F3F4	 | 	PHYSLAB203	 | 	Optional	 | 	GE_core1	 | 	-
+10520GEC 110500	 | 	Mathematical and scientific thinking	 | 	2	 | 	T7T8	 | 	MXIC253	 | 	Optional	 | 	GE_core1	 | 	 - 
+10510GE 115100	 | 	Mathematics Appreciation	 | 	2	 | 	T7T8	 | 	GEN III315	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10510GE 120500	 | 	Media and Society	 | 	3	 | 	R7R8R9	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 119500	 | 	Media and Writing	 | 	3	 | 	R2R3R4	 | 	EDU 307	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510GE 113500	 | 	Media Effects and Social Problems	 | 	2	 | 	F7F8	 | 	EDU 310	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 113500	 | 	Media Effects and Social Problems	 | 	2	 | 	F7F8	 | 	EDU 313	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510GEC 140301	 | 	Media Understanding and Rethinking	 | 	3	 | 	W2W3W4	 | 	EDU 314	 | 	Optional	 | 	GE_core4	 | 	-
+10510GEC 140302	 | 	Media Understanding and Rethinking	 | 	2	 | 	T7T8	 | 	EDU 313	 | 	Optional	 | 	GE_core4	 | 	-
+10520GEC 140300	 | 	Media Understanding and Rethinking	 | 	2	 | 	T7T8	 | 	EDU 314	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520DMS 371400	 | 	Medical Ethics	 | 	1	 | 	T4	 | 	LS II 113	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10520HSS 220100	 | 	Metaphysics	 | 	3	 | 	F3F4Fn	 | 	HSSC403A	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GE 132600	 | 	Music and Culture	 | 	3	 | 	W7W8W9	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 132600	 | 	Music and Culture	 | 	3	 | 	W7W8W9	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 127600	 | 	Music Appreciation and Analysis (III)	 | 	2	 | 	M7M8	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 125400	 | 	NGONon-government Organization Internships	 | 	3	 | 	MaMbMc	 | 	D-Ren	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 221000	 | 	Nishida Kitaro	 | 	3	 | 	F3F4Fn	 | 	HSSC403A	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520DMS 394200	 | 	Nobel Prize Laureates in Medicine: Research and Life	 | 	2	 | 	W3W4	 | 	LS II 113	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10510GE 120600	 | 	Oil Painting	 | 	2	 | 	M5M6M7M8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 120600	 | 	Oil Painting	 | 	2	 | 	M5M6M7M8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 157600	 | 	ON ARCHITECTURE, its cultural characters and social significances	 | 	2	 | 	F3F4	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 157600	 | 	ON ARCHITECTURE, its cultural characters and social significances	 | 	2	 | 	F3F4	 | 	EDU 211	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 135600	 | 	Opera Appreciation - R. Wagner	 | 	2	 | 	M5M6	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 135600	 | 	Opera Appreciation -Verdi	 | 	2	 | 	M5M6	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520IEEM412000	 | 	Organizational Behavior	 | 	3	 | 	T7T8T9	 | 	ENG I701	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 154600	 | 	Organizing Art Exhibitions :Theory and Practices	 | 	2	 | 	M3M4	 | 	EDU 316	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 154600	 | 	Organizing Art Exhibitions :Theory and Practices	 | 	2	 | 	M3M4	 | 	EDU 316	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 107600	 | 	Painting Creation	 | 	2	 | 	W5W6W7W8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 107600	 | 	Painting Creation	 | 	2	 | 	W5W6W7W8	 | 	EDU 407	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 118500	 | 	Personal Crisis Prevention	 | 	2	 | 	R5R6	 | 	BMES120	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 118500	 | 	Personal Crisis Prevention	 | 	2	 | 	R5R6	 | 	BMES120	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510HSS 320800	 | 	Philosophical Classics in English	 | 	3	 | 	M7M8M9	 | 	HSSA306	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520HSS 320200	 | 	Philosophy of Mind	 | 	3	 | 	M7M8M9	 | 	HSSD203	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510HSS 220900	 | 	Philosophy of Psychoanalysis	 | 	3	 | 	W3W4Wn	 | 	HSSD203	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510HSS 320900	 | 	Philosophy of Science	 | 	3	 | 	W5W6W7	 | 	HSSD201	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520HSS 221200	 | 	Philosophy of Social Science	 | 	3	 | 	W3W4Wn	 | 	HSSC403A	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520LS 314200	 | 	Plants and Life	 | 	2	 | 	M3M4	 | 	LS II 113	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10510HSS 391300	 | 	Play Analysis and Practice	 | 	3	 | 	F5F6F7	 | 	HSSD202	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 148300	 | 	Political Economy and Culture in Southeast Asia	 | 	2	 | 	T5T6	 | 	EDU 313	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 148300	 | 	Political Economy and Culture in Southeast Asia	 | 	2	 | 	T5T6	 | 	EDU 314	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 102400	 | 	Practice for Industry innovation	 | 	2	 | 	TaTb	 | 	D-Shi	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510ECON100101	 | 	Principles of Economics (I)	 | 	3	 | 	M7M8M9	 | 	MXIC245	 | 	Optional	 | 	GE_core4	 | 	-
+10510ECON100102	 | 	Principles of Economics (I)	 | 	3	 | 	F7F8F9	 | 	TSMC103	 | 	Optional	 | 	GE_core4	 | 	-
+10510ECON100103	 | 	Principles of Economics (I)	 | 	3	 | 	M3M4W2	 | 	TSMC309	 | 	Optional	 | 	GE_core4	 | 	-
+10510ECON100104	 | 	Principles of Economics (I)	 | 	3	 | 	F3F4Fn	 | 	TSMC103	 | 	Optional	 | 	GE_core4	 | 	-
+10510ECON100105	 | 	Principles of Economics (I)	 | 	3	 | 	R3R4Rn	 | 	TSMC104	 | 	Optional	 | 	GE_core4	 | 	-
+10510ECON100106	 | 	Principles of Economics (I)	 | 	3	 | 	M3M4Mn	 | 	TSMC224	 | 	Optional	 | 	GE_core4	 | 	-
+10510ECON100107	 | 	Principles of Economics (I)	 | 	3	 | 	W3W4F3F4	 | 	TSMC206	 | 	Optional	 | 	GE_core4	 | 	-
+10520ECON100201	 | 	Principles of Economics (II)	 | 	3	 | 	M7M8M9	 | 	MXIC245	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520ECON100202	 | 	Principles of Economics (II)	 | 	3	 | 	F7F8F9	 | 	TSMC103	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520ECON100203	 | 	Principles of Economics (II)	 | 	3	 | 	M3M4W2	 | 	TSMC309	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520ECON100204	 | 	Principles of Economics (II)	 | 	3	 | 	F3F4Fn	 | 	TSMC103	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520ECON100205	 | 	Principles of Economics (II)	 | 	3	 | 	R3R4Rn	 | 	HSSC404	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520ECON100206	 | 	Principles of Economics (II)	 | 	3	 | 	M3M4Mn	 | 	TSMC224	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520ECON100207	 | 	Principles of Economics (II)	 | 	3	 | 	W3W4F3F4	 | 	TSMC120	 | 	Optional	 | 	GE_core4	 | 	 - 
+10510GE 119600	 | 	Print Making	 | 	1	 | 	T5T6	 | 	EDU 403	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10520GE 119600	 | 	Print Making	 | 	1	 | 	T5T6	 | 	EDU 403	 | 	Optional	 | 	GE_humanities	 | 	StudioArt
+10510GE 163400	 | 	Psychoanalysis of Group	 | 	3	 | 	R3R4Rn	 | 	EDU 316	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 163400	 | 	Psychoanalysis of Group	 | 	3	 | 	W7W8W9	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GEC 120301	 | 	Psychology and Modern Life	 | 	3	 | 	RnR5R6	 | 	EDU 310	 | 	Optional	 | 	GE_core2	 | 	-
+10510GEC 120302	 | 	Psychology and Modern Life	 | 	3	 | 	M7M8M9	 | 	EDU 313	 | 	Optional	 | 	GE_core2	 | 	-
+10510GEC 120303	 | 	Psychology and Modern Life	 | 	3	 | 	MnM5M6	 | 	EDU 310	 | 	Optional	 | 	GE_core2	 | 	-
+10510GEC 120304	 | 	Psychology and Modern Life	 | 	3	 | 	T3T4Tn	 | 	EDU 310	 | 	Optional	 | 	GE_core2	 | 	-
+10510GEC 120305	 | 	Psychology and Modern Life	 | 	3	 | 	T7T8T9	 | 	EDU 309	 | 	Optional	 | 	GE_core2	 | 	-
+10520GEC 120301	 | 	Psychology and Modern Life	 | 	3	 | 	T3T4Tn	 | 	GEN II108	 | 	Optional	 | 	GE_core2	 | 	 - 
+10520GEC 120302	 | 	Psychology and Modern Life	 | 	3	 | 	W3W4Wn	 | 	EDU 314	 | 	Optional	 | 	GE_core2	 | 	 - 
+10520GEC 120303	 | 	Psychology and Modern Life	 | 	3	 | 	T7T8T9	 | 	EDU 309	 | 	Optional	 | 	GE_core2	 | 	 - 
+10520GEC 120304	 | 	Psychology and Modern Life	 | 	3	 | 	R3R4Rn	 | 	EDU 310	 | 	Optional	 | 	GE_core2	 | 	 - 
+10520GEC 120305	 | 	Psychology and Modern Life	 | 	3	 | 	F3F4Fn	 | 	EDU 313	 | 	Optional	 | 	GE_core2	 | 	 - 
+10510GE 155600	 | 	Public Art	 | 	2	 | 	F3F4	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 155600	 | 	Public Art	 | 	2	 | 	F3F4	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GEC 161300	 | 	Reading Classics in Eastern Philosophy: the Platform Sutra of the Sixth Patriarch	 | 	3	 | 	M7M8M9	 | 	ESS 501	 | 	Optional	 | 	GE_core1	 | 	 - 
+10520HSS 313900	 | 	Reading Classics in History: Studies in Medieval European History	 | 	3	 | 	W5W6W7	 | 	HSSD201	 | 	Optional	 | 	GE_core6	 | 	 - 
+10520HSS 313300	 | 	Reading Classics in History: Western Historiography	 | 	3	 | 	W7W8W9	 | 	HSSB413	 | 	Optional	 | 	GE_core6	 | 	 - 
+10520HSS 200200	 | 	Reading Classics: Humanities and Social Sciences B	 | 	3	 | 	T7T8T9	 | 	HSSC403A	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GE 129800	 | 	Reading Shakespeare	 | 	3	 | 	W3W4Wn	 | 	HSSD203	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GEC 161100	 | 	Readings in the Wei and Jin Dynasties Literature	 | 	2	 | 	M7M8	 | 	GEN II108	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 161100	 | 	Readings in the Wei and Jin Dynasties Literature	 | 	2	 | 	M5M6	 | 	GEN II108	 | 	Optional	 | 	GE_core3	 | 	 - 
+10520HSS 390000	 | 	Research Methodology and Thesis Writing	 | 	3	 | 	T7T8T9	 | 	HSSC507	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 130800	 | 	Russian History and Culture: Introductory Course	 | 	3	 | 	F7F8F9	 | 	EDU 307	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GE 186200	 | 	Science Encountered-Time, evolution, and Decisions	 | 	2	 | 	T5T6	 | 	EDU 307	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GE 172200	 | 	Science in Daily Life	 | 	2	 | 	WaWb	 | 	EDU 310	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 172200	 | 	Science in Daily Life	 | 	2	 | 	WaWb	 | 	EDU 310	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GEC 150201	 | 	Science, Technology and Society :Interdisciplinary Perspectives	 | 	3	 | 	R7R8R9	 | 	EDU 211	 | 	Optional	 | 	GE_core5	 | 	-
+10510GEC 150202	 | 	Science, Technology and Society :Interdisciplinary Perspectives	 | 	3	 | 	T7T8T9	 | 	EDU 211	 | 	Optional	 | 	GE_core5	 | 	-
+10510GEC 150203	 | 	Science, Technology and Society :Interdisciplinary Perspectives	 | 	3	 | 	R3R4Rn	 | 	EDU 314	 | 	Optional	 | 	GE_core5	 | 	-
+10520GEC 150201	 | 	Science, Technology and Society :Interdisciplinary Perspectives	 | 	3	 | 	R7R8R9	 | 	EDU 211	 | 	Optional	 | 	GE_core5	 | 	 - 
+10510HSS 310100	 | 	Selected Reading of Historical Works and Source Materials	 | 	3	 | 	F6F7F8	 | 	HSSD302	 | 	Optional	 | 	GE_core6	 | 	-
+10510HIS 212100	 | 	Selected Readings from Zizhi tongjian (Comprehensive mirror to aid in government):Southern and No	 | 	2	 | 	T7T8	 | 	HSSC411	 | 	Optional	 | 	GE_core6	 | 	-
+10520HIS 211700	 | 	Selected Readings from Zizhi tongjian (Comprehensive mirror to aid in government):The Sui and T'a	 | 	2	 | 	T7T8	 | 	HSSC411	 | 	Optional	 | 	GE_core6	 | 	 - 
+10510GEC 160500	 | 	Selected Tzu of Su Shi & Shin Chih-jyi	 | 	2	 | 	R3R4	 | 	HSSC204	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 160500	 | 	Selected Tzu of Su Shi & Shin Chih-jyi	 | 	2	 | 	R3R4	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GE 164700	 | 	Selection from the Book of Changes	 | 	2	 | 	F3F4	 | 	HSSD301	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520GE 164700	 | 	Selection from the Book of Changes	 | 	2	 | 	F3F4	 | 	HSSC509	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520GE 165700	 | 	Selections from the Agama Sutra	 | 	2	 | 	R5R6	 | 	EDU 305	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GEC 160201	 | 	Selections from the Book of Odes	 | 	2	 | 	F7F8	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	-
+10510GEC 160202	 | 	Selections from the Book of Odes	 | 	2	 | 	R7R8	 | 	ENG I 214	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 160201	 | 	Selections from the Book of Odes	 | 	2	 | 	R3R4	 | 	EDU 314	 | 	Optional	 | 	GE_core3	 | 	 - 
+10520GEC 160202	 | 	Selections from the Book of Odes	 | 	2	 | 	R7R8	 | 	EDU 311	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GEC 160100	 | 	Selections from the Poetry of Li Bai and Du Fu	 | 	2	 | 	R5R6	 | 	HSSC204	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 160100	 | 	Selections from the Poetry of Li Bai and Du Fu	 | 	2	 | 	R5R6	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GEC 161000	 | 	Selections from the Records of Grand Historian	 | 	2	 | 	W3W4	 | 	HSSD202	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 161000	 | 	Selections from the Records of Grand Historian	 | 	3	 | 	T3T4Tn	 | 	DELTAB09	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GEC 160700	 | 	Selections from the Three Kingdoms	 | 	2	 | 	T3T4	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 160700	 | 	Selections from the Three Kingdoms	 | 	2	 | 	F3F4	 | 	EDU 314	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GEC 160600	 | 	Selections from the Tso Chuan	 | 	2	 | 	R7R8	 | 	HSSD202	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 160600	 | 	Selections from the Tso Chuan	 | 	2	 | 	R7R8	 | 	MXIC253	 | 	Optional	 | 	GE_core3	 | 	 - 
+10520GEC 110800	 | 	Selections from the Xunzi	 | 	2	 | 	M3M4	 | 	EDU 311	 | 	Optional	 | 	GE_core1	 | 	 - 
+10520GE 132800	 | 	Selective Readings for "The Chinese Mythology"	 | 	2	 | 	F7F8	 | 	EDU 309	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GE 172400	 | 	Self Exploration and Family of Origin	 | 	2	 | 	R7R8	 | 	Counsel	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 111400	 | 	Self Exploration and Growth	 | 	2	 | 	W3W4	 | 	Counsel	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520HSS 314000	 | 	Seminar on History of Taiwan	 | 	2	 | 	R3R4	 | 	HSSD201	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 102600	 | 	Short Film Production	 | 	3	 | 	T7T8T9	 | 	EDU 305	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 102200	 | 	Smart Engineering & Modern Science Engineering	 | 	2	 | 	M7M8	 | 	EDU 314	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10520GE 102200	 | 	Smart Engineering & Modern Science Engineering	 | 	2	 | 	M3M4	 | 	EDU 314	 | 	Optional	 | 	GE_naturalSciences	 | 	AppliedScience
+10510GEC 140201	 | 	Social and cultural Analysis	 | 	3	 | 	T3T4Tn	 | 	EDU 211	 | 	Optional	 | 	GE_core4	 | 	-
+10510GEC 140202	 | 	Social and cultural Analysis	 | 	3	 | 	W7W8W9	 | 	EDU 314	 | 	Optional	 | 	GE_core4	 | 	-
+10520GEC 140201	 | 	Social and cultural Analysis	 | 	3	 | 	M7M8M9	 | 	EDU 211	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520GEC 140202	 | 	Social and cultural Analysis	 | 	3	 | 	T3T4Tn	 | 	EDU 211	 | 	Optional	 | 	GE_core4	 | 	 - 
+10520GE 105400	 | 	Social Design for the Common Good	 | 	2	 | 	T3T4	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 350400	 | 	Societies and Cultures of Austronesian Taiwan	 | 	3	 | 	T7T8T9	 | 	HSSC205	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520HSS 350300	 | 	Society and Culture of Han Chinese in Taiwan	 | 	3	 | 	R3R4Rn	 | 	HSSC205	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510TE 203100	 | 	Sociology of Education	 | 	2	 | 	W5W6	 | 	EDU 307	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HSS 343400	 | 	Sociology of Rock	 | 	3	 | 	M7M8M9	 | 	EDU 310	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 153700	 | 	Study Buddhist Sutra -- Prajna Series	 | 	2	 | 	W7W8	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520GE 109800	 | 	Taiwanese / Tai-gimovie, drama and Literature	 | 	2	 | 	M7M8	 | 	GEN II201	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 126600	 | 	Taiwanese Art and Local Culture	 | 	3	 | 	F5F6F7	 | 	EDU 305	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 118600	 | 	Taiwanese Folk Songs and Culture	 | 	2	 | 	R5R6	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 118600	 | 	Taiwanese Folk Songs and Culture	 | 	2	 | 	R5R6	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 130500	 | 	Television Production	 | 	3	 | 	F5F6F7	 | 	EDU 314	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520GE 130500	 | 	Television Production	 | 	3	 | 	F5F6F7	 | 	EDU 314	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10520HSS 290100	 | 	The appreciation and exercise of Modern Prose	 | 	3	 | 	M3M4Mn	 | 	HSSC205	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520GE 161600	 | 	The Art and Science of Chinese Ceramics	 | 	2	 | 	R7R8	 | 	EDU 314	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520HSS 302100	 | 	The Basic of Screenwriting	 | 	3	 | 	T7T8T9	 | 	EDU 211	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GEC 130800	 | 	The Canon of Art: Selected Masterpieces of Western Art	 | 	3	 | 	R7R8R9	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	 - 
+10510GE 145300	 | 	The Development of the Cross-Strait Relations and Policy	 | 	3	 | 	W5W6W7	 | 	EDU 211	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 145300	 | 	The Development of the Cross-Strait Relations and Policy	 | 	3	 | 	W5W6W7	 | 	EDU 313	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510GE 136600	 | 	The dialogue between modern media and classical novel	 | 	2	 | 	M1M2	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510HIS 260500	 | 	The German History	 | 	2	 | 	W3W4	 | 	MXIC253	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520HIS 260500	 | 	The German History	 | 	2	 | 	W3W4	 | 	HSSC411	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510HIS 233500	 | 	The Historiography of Tzu-chih t'ung-chien: Narratives of the Collapse and Split of Han Dynasty	 | 	2	 | 	W3W4	 | 	EDU 305	 | 	Optional	 | 	GE_core6	 | 	-
+10510HSS 311900	 | 	The History of People's Republic of China	 | 	3	 | 	T7T8T9	 | 	HSSC204	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510HIS 240200	 | 	The History of Taiwan Culture	 | 	2	 | 	F1F2	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520HIS 240200	 | 	The History of Taiwan Culture	 | 	2	 | 	F1F2	 | 	EDU 311	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510HSS 290000	 | 	The History of Taiwanese Literature	 | 	3	 | 	W3W4Wn	 | 	HSSC204	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 101300	 | 	The Interrelation between Religion and Politics in East Asia	 | 	2	 | 	R5R6	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 101300	 | 	The Interrelation between Religion and Politics in East Asia	 | 	2	 | 	W5W6	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510GE 184200	 | 	The Introduction of Big Data	 | 	3	 | 	WnW5W6	 | 	DELTA109	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10520GE 184200	 | 	The Introduction of Big Data	 | 	3	 | 	F7F8F9	 | 	EDU 310	 | 	Optional	 | 	GE_naturalSciences	 | 	SciTechSociety
+10520HSS 345400	 | 	The issues of food and agriculture in contemporary Taiwan	 | 	3	 | 	R7R8R9	 | 	HSSC205	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 171400	 | 	The Making of Popular Music in Taiwan Social Movement	 | 	2	 | 	M7M8	 | 	EDU 305	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 171400	 | 	The Making of Popular Music in Taiwan Social Movement	 | 	2	 | 	M7M8	 | 	GEN II108	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510GE 163700	 | 	The Philosophy of Life in Zhuangzi	 | 	2	 | 	T7T8	 | 	GEN II105	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10520GE 163700	 | 	The Philosophy of Life in Zhuangzi	 | 	2	 | 	T3T4	 | 	EDU 313	 | 	Optional	 | 	GE_humanities	 | 	PhilosReligious
+10510GEC 150100	 | 	The Scientific Revolution	 | 	3	 | 	M2M3M4	 | 	EDU 311	 | 	Optional	 | 	GE_core5	 | 	-
+10520GEC 150101	 | 	The Scientific Revolution	 | 	3	 | 	M2M3M4	 | 	EDU 310	 | 	Optional	 | 	GE_core5	 | 	 - 
+10520GEC 150102	 | 	The Scientific Revolution	 | 	3	 | 	F6F7F8	 | 	EDU 311	 | 	Optional	 | 	GE_core5	 | 	 - 
+10510GEC 160300	 | 	The selected readings of Lun Yu and Men Zu	 | 	2	 | 	T5T6	 | 	GEN II105	 | 	Optional	 | 	GE_core1	 | 	-
+10520GEC 160300	 | 	The selected readings of Lun Yu and Men Zu	 | 	2	 | 	T5T6	 | 	EDU 313	 | 	Optional	 | 	GE_core1	 | 	 - 
+10520GEC 160302	 | 	The selected readings of Lun Yu and Men Zu	 | 	2	 | 	T3T4	 | 	ESS 406	 | 	Optional	 | 	GE_core1	 | 	 - 
+10510GEC 161200	 | 	The selected readings of Zhuang Zi	 | 	2	 | 	T1T2	 | 	EDU 310	 | 	Optional	 | 	GE_core1	 | 	-
+10520GEC 161200	 | 	The selected readings of Zhuang Zi	 | 	2	 | 	T1T2	 | 	EDU 309	 | 	Optional	 | 	GE_core1	 | 	 - 
+10510GE 141300	 | 	The Theory and Practice of Consumer Protection Law	 | 	2	 | 	W1W2	 | 	EDU 310	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10520GE 141300	 | 	The Theory and Practice of Consumer Protection Law	 | 	2	 | 	T5T6	 | 	EDU 311	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510HSS 211700	 | 	The World History of Trade Goods	 | 	3	 | 	T7T8T9	 | 	HSSC404	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510HSS 372500	 | 	Thriller Fictions, Films and Gender	 | 	3	 | 	M7M8M9	 | 	HSSD202	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 160400	 | 	Traditional Chinese Medicine in Modern Life (I)	 | 	2	 | 	W5W6	 | 	EDU 310	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 161400	 | 	Traditional Chinese Medicine in Modern Life(II)	 | 	2	 | 	W5W6	 | 	EDU 310	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10510HIS 231700	 | 	Tribute to Masters: Exploring Masterpieces of Art	 | 	2	 | 	F3F4	 | 	HSSC204	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10510GE 122500	 | 	TV Media management	 | 	2	 | 	M3M4	 | 	EDU 313	 | 	Optional	 | 	GE_socialSciences	 | 	MIE
+10510GEC 130102	 | 	Understanding Art	 | 	3	 | 	R3R4Rn	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	-
+10520GEC 130100	 | 	Understanding Art	 | 	3	 | 	M7M8M9	 | 	EDU 313	 | 	Optional	 | 	GE_core3	 | 	 - 
+10520GE 162900	 | 	Universal Human Rights and the Development of Human Rights in Taiwan	 | 	2	 | 	W7W8	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	LawPolitics
+10510LS 321000	 | 	Universe and Life	 | 	2	 | 	W7W8	 | 	LS II 113	 | 	Optional	 | 	GE_naturalSciences	 | 	BasicScience
+10520GEC 110300	 | 	Value and Practice	 | 	3	 | 	R7R8R9	 | 	EDU 310	 | 	Optional	 | 	GE_core1	 | 	 - 
+10510GEC 130201	 | 	Visual Culture	 | 	2	 | 	R4Rn	 | 	EDU 309	 | 	Optional	 | 	GE_core3	 | 	-
+10510GEC 130202	 | 	Visual Culture	 | 	2	 | 	R5R6	 | 	EDU 309	 | 	Optional	 | 	GE_core3	 | 	-
+10510GE 170400	 | 	Volunteer Medical Service	 | 	2	 | 	F5F6	 | 	EDU 309	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520GE 170400	 | 	Volunteer Medical Service	 | 	2	 | 	F5F6	 | 	EDU 307	 | 	Optional	 | 	GE_socialSciences	 | 	SPAEGS
+10520HIS 212700	 | 	Winner and Loser: the Founding and Last Emperors of the Chinese History	 | 	2	 | 	W7W8	 | 	HSSD301	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10520HSS 100500	 | 	World Civilizations	 | 	3	 | 	T7T8T9	 | 	HSSC404	 | 	Optional	 | 	GE_humanities	 | 	HumaneHistorical
+10510GE 199600	 | 	Write Some Notes for Music	 | 	2	 | 	F5F6	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt
+10520GE 199600	 | 	Write Some Notes for Music	 | 	2	 | 	F5F6	 | 	EDU 310	 | 	Optional	 | 	GE_humanities	 | 	GeneralArt

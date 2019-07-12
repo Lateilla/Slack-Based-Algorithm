@@ -1,0 +1,72 @@
+Physical Education	 | 	Aerobics dancing
+Physical Education	 | 	Badminton
+Badminton	 | 	Badminton(advance)
+Physical Education	 | 	Baseball
+Physical Education	 | 	Basketball
+Basketball(basic)	 | 	Basketball(advance)
+Physical Education	 | 	Basketball(basic)
+Physical Education	 | 	Core Strength
+Core Strength(basic)	 | 	Core Strength(advance)
+Physical Education	 | 	Core Strength(basic)
+Physical Education	 | 	Dance Improvisation
+Physical Education	 | 	Exercise walking and jogging
+Physical Education	 | 	fat burn
+Physical Education	 | 	Football
+Physical Education	 | 	Golf
+Physical Education	 | 	Ironman Triathlon
+Physical Education	 | 	Jazz Dance
+Physical Education	 | 	Judo
+Physical Education	 | 	Karate
+Physical Education	 | 	Orienteering
+Physical Education	 | 	Physical Training::san da
+Ping pong(basic)	 | 	Ping pong (advance)
+Physical Education	 | 	Ping pong(basic)
+Physical Education	 | 	Pop Dance
+Physical Education	 | 	Softball
+Softball	 | 	Softball(advance)
+Swimming(basic)	 | 	Swimming(advance)
+Physical Education	 | 	Swimming(basic)
+Physical Education	 | 	Tae kwon do
+Physical Education	 | 	Tai Chi
+Tennis(basic)	 | 	Tennis(advance)
+Physical Education	 | 	Tennis(basic)
+Physical Education	 | 	Volleyball
+Physical Education	 | 	Vortex Aerobics
+Physical Education	 | 	Water aerobics
+Physical Education	 | 	Weight Training
+Physical Education	 | 	Yoga
+Yoga(basic)	 | 	Yoga(advance)
+Physical Education	 | 	Yoga(basic)
+Physical Education	 | 	Yogalates
+Aerobics dancing	 | 	END
+Badminton	 | 	END
+Badminton(advance)	 | 	END
+Baseball	 | 	END
+Basketball	 | 	END
+Basketball(advance)	 | 	END
+Core Strength(advance)	 | 	END
+Dance Improvisation	 | 	END
+Exercise walking and jogging	 | 	END
+fat burn	 | 	END
+Football	 | 	END
+Golf	 | 	END
+Ironman Triathlon	 | 	END
+Jazz Dance	 | 	END
+Judo	 | 	END
+Karate	 | 	END
+Orienteering	 | 	END
+Physical Training::san da	 | 	END
+Ping pong (advance)	 | 	END
+Pop Dance	 | 	END
+Softball(advance)	 | 	END
+Swimming(advance)	 | 	END
+Tae kwon do	 | 	END
+Tai Chi	 | 	END
+Tennis(advance)	 | 	END
+Volleyball	 | 	END
+Vortex Aerobics	 | 	END
+Water aerobics	 | 	END
+Weight Training	 | 	END
+Yoga	 | 	END
+Yoga(advance)	 | 	END
+Yogalates	 | 	END

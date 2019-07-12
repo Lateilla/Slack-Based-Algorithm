@@ -1,0 +1,18 @@
+Calculus I	 | 	3
+College Chinese	 | 	2
+Discrete Mathematics	 | 	3
+English Listening & Speaking	 | 	3
+General Physics B (I)	 | 	3
+General Physics B (II)	 | 	3
+Intro. to Computer Systems & Applications	 | 	2
+Introduction in Mathematics	 | 	3
+Introduction to Programming (I)   | 	3
+Introduction to Programming (II)  | 	3
+Data Structures	 | 	3
+JAVA Programming Language	 | 	2
+Karate	 | 	0
+Mandarin Intermediate I	 | 	3
+Physical Education	 | 	0
+Student Service1	 | 	0
+Student Service2	 | 	0
+Thriller Fictions, Films and Gender	 | 	3
