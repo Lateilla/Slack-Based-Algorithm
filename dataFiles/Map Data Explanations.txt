@@ -1,0 +1,67 @@
+Map Course Data Layout
+
+courseId | courseName | credits | classTimes| semester | Required or Optional | course category | Dept Importance 
+
+----------------------------------------------------------
+Graph Types
+GE_REQ
+LANG_REQ
+PE-SERVICE_REQ
+DEPT_REQ
+
+----------------------------------------------------------
+Course Categories (categories only apply to optional courses and can be freely added):
+- (this means no category)
+CS_catA
+CS_catB
+CS_catC
+GE_core1
+GE_core2
+GE_core3
+GE_core4
+GE_core5
+GE_core6
+GE_core7
+GE_humanities
+GE_socialSciences
+GE_naturalSciences
+PE
+English
+Chinese
+
+---------------------------------------------------------
+Course Types (separates courses into topics)
+CS COURSES:
+TheoryAlgorithm
+Network
+SystemSoftware
+ICDesign
+Multimedia
+Applicatios and Programming - AppProgram
+Other
+
+GE ELECTIVES
+NATURAL SCIENCE:
+BasicScience
+AppliedScience
+SciTechSociety
+
+SOCIAL SCIENCE:
+LawPolitics
+Sociology, Psychology, Anthropolog,Education, Gender Studies (SPAEGS)
+Management, Informatic, Economics (MIE)
+
+HUMANITIES:
+GeneralArt
+StudioArt
+PhilosReligious
+HumaneHistorical
+
+PE COURSES:
+Ball Sports - Ball
+Dance Sports - Dance
+Water Sports - Water
+Martial Arts Sports - Martial
+Stretching and Relaxation Sports - StretchRelax
+Walking and Running Sports - WalkRun
+Strength and Muscle Sports - Strength
