@@ -1,0 +1,78 @@
+10510MATH101001 	 | 	Calculus I                                                   	 |	3	 | 	T3T4R3R4   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520MATH104005 	 | 	Calculus II                                                  	 |	3	 | 	T3T4R3R4   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510PHYS113301 	 | 	General Physics B (I)                                        	 |	3	 | 	T1T2F1F2   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520PHYS113301 	 | 	General Physics B (II)                                       	 |	3	 | 	T1T2F1F2   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS135501   	 | 	Introduction to Programming (I)                              	 |	3	 | 	M7M8R5R6   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS135601   	 | 	Introduction to Programming (II)                             	 |	3	 | 	T5T6F5F6   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS235101   	 | 	Data Structures                                              	 |	3	 | 	T3T4R3WaWb 	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS235100   	 | 	Data Structures                                              	 |	3	 | 	M5M6R5     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS233601   	 | 	Discrete Mathematics                                         	 |	3	 | 	M3M4W2     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS241001   	 | 	Software Studio                                              	 |	3	 | 	T7T8R7R8   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS210201   	 | 	Digital Logic Design                                         	 |	3	 | 	M7M8R5R6   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS233401   	 | 	Linear Algebra                                               	 |	3	 | 	M3M4W2     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS410000   	 | 	Computer Architecture                                        	 |	3	 | 	M5M6M7     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS410001   	 | 	Computer Architecture                                        	 |	3	 | 	T3T4R3     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS410002   	 | 	Computer Architecture                                        	 |	3	 | 	M7M8R6     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS210401   	 | 	Hardware Design and Lab                                      	 |	3	 | 	T7T8R7R8   	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS333201   	 | 	Probability                                                  	 |	3	 | 	W3W4F4     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS342301   	 | 	Operating Systems                                            	 |	3	 | 	M3M4W2     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS431101   	 | 	Design and Analysis of Algorithms                            	 |	3	 | 	W3W4F3     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS431100   	 | 	Design and Analysis of Algorithms                            	 |	3	 | 	W3W4F3     	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS390100   	 | 	System Integration Implementation I                          	 |	2	 | 	-          	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS390100   	 | 	System Integration Implementation I                          	 |	2	 | 	-          	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10510CS390200   	 | 	System Integration Implementation II                         	 |	2	 | 	-          	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS390200   	 | 	System Integration Implementation II                         	 |	2	 | 	-          	 | 	 - 	 | 	Required 	 | 	- 	 | 	 -
+10520CS337100   	 | 	Formal Language & Automata                                   	 |	3	 | 	M7M8R6     	 | 	 - 	 | 	Optional 	 | 	CS_catA 	 | 	TheoryAlgorithm
+10510CS333000   	 | 	Scientific Computing                                         	 |	3	 | 	T5F5F6     	 | 	 - 	 | 	Optional 	 | 	CS_catA 	 | 	Multimedia
+10520CS471000   	 | 	Introduction to Database Systems                             	 |	3	 | 	M3M4W2     	 | 	 - 	 | 	Optional 	 | 	CS_catC 	 | 	TheoryAlgorithm
+10510CS460100   	 | 	Introduction to Intelligent Computing                        	 |	3	 | 	W3W4F3     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	TheoryAlgorithm
+10510CS321201   	 | 	Introduction to Computer Networks                            	 |	3	 | 	M7M8R6     	 | 	 - 	 | 	Optional 	 | 	CS_catC 	 | 	Network
+10510CS321100   	 | 	Introduction to Communication                                	 |	3	 | 	W7W8F6     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	Network
+10510CS330500   	 | 	Cryptography and Network Security                            	 |	3	 | 	M7M8R6     	 | 	 - 	 | 	Optional 	 | 	CS_catC 	 | 	Network
+10520CS210000   	 | 	Circuits and Electronics (I)                                 	 |	3	 | 	M3M4W2     	 | 	 - 	 | 	Optional 	 | 	CS_catB 	 | 	ICDesign
+10520CS340400   	 | 	Compiler Design                                              	 |	3	 | 	T7T8R7     	 | 	 - 	 | 	Optional 	 | 	CS_catB 	 | 	SystemSoftware
+10520CS446100   	 | 	Software Engineering                                         	 |	3	 | 	M5M6W5     	 | 	 - 	 | 	Optional 	 | 	CS_catC 	 | 	SystemSoftware
+10510CS410100   	 | 	Introduction to Embedded Systems                             	 |	3	 | 	R3T3T4     	 | 	 - 	 | 	Optional 	 | 	CS_catB 	 | 	SystemSoftware
+10510CS542200   	 | 	Parallel Programming                                         	 |	3	 | 	M7M8R6     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	SystemSoftware
+10510CS312000   	 | 	Introduction to Integrated Circuit Design                    	 |	3	 | 	M2R3R4     	 | 	 - 	 | 	Optional 	 | 	CS_catB 	 | 	ICDesign
+10510CS313000   	 | 	Introduction to Computer-Aided Design of Integrated Circuits 	 |	3	 | 	T7T8R7     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	ICDesign
+10510CS412500   	 | 	Digital System Design                                        	 |	3	 | 	T5F5F6     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	ICDesign
+10510CS333401   	 | 	Engineering Mathematics                                      	 |	3	 | 	W4F3F4     	 | 	 - 	 | 	Optional 	 | 	CS_catA 	 | 	Multimedia
+10510CS333402   	 | 	Engineering Mathematics                                      	 |	3	 | 	W3W4F3F4   	 | 	 - 	 | 	Optional 	 | 	CS_catA 	 | 	Multimedia
+10520CS357000   	 | 	Introduction to Multimedia                                   	 |	3	 | 	T5F5F6     	 | 	 - 	 | 	Optional 	 | 	CS_catC 	 | 	Multimedia
+10510CS460100   	 | 	Introduction to Intelligent Computing                        	 |	3	 | 	W3W4F3     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	TheoryAlgorithm
+10510CS452000   	 | 	Introduction to Image Processing                             	 |	3	 | 	M5M6R4     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	Multimedia
+10510CS543200   	 | 	Advanced UNIX Programming                                    	 |	3	 | 	M7M8R6     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	TheoryAlgorithm
+10520CS423300   	 | 	Network Programming                                          	 |	3	 | 	MaMbMc     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	Network
+10520CS542000   	 | 	Cloud Programming                                            	 |	3	 | 	M6M7M8     	 | 	 - 	 | 	Optional 	 | 	- 	 | 	Network
+10510CS 343300	 | 	Competitive Programming Training	 | 	3	 | 	MaMbMc	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10520CS 343400	 | 	Competitive Programming Training (II)	 | 	3	 | 	MaMbMc	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10510CS 342700	 | 	Computer System Administration	 | 	3	 | 	F5F6F7	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10520CS 342700	 | 	Computer System Administration	 | 	3	 | 	M5M6M7	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10520CS 150100	 | 	English Listening & Speaking	 | 	3	 | 	W7W8W9	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Other
+10510CS 135701	 | 	Intro. to Computer Systems & Applications	 | 	2	 | 	R7R8R9	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10510CS 135702	 | 	Intro. to Computer Systems & Applications	 | 	2	 | 	W7W8W9	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10520CS 450500	 | 	Introduction to Graphics Programming and Applications	 | 	3	 | 	M7M8M9	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	AppProgram
+10520CS 423500	 | 	Introduction to Internet of Things	 | 	3	 | 	M6M7M8	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Network
+10510CS 321300	 | 	Introduction to Internet of Things and Applications	 | 	3	 | 	TaTbTc	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Network
+10520CS 321300	 | 	Introduction to Internet of Things and Applications	 | 	3	 | 	TaTbTc	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Network
+10520CS 411000	 | 	Parallel Computer Architecture	 | 	3	 | 	T7T8R7	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	SystemSoftware
+10520CS 340500	 | 	Programming Top Ten Important Algorithms in Python	 | 	3	 | 	R7R8R9	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS XXXXX	 | 	END	 | 	0	 | 	 - 	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	 - 
+10520CS 542100	 | 	Cloud Computing	 |	3	 | 	T3T4F4	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	SystemSoftware
+10520CS 574000	 | 	Cloud Databases	 |	3	 | 	T3T4R3	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	SystemSoftware
+10520CS 510000	 | 	Advanced Computer Architecture	 |	3	 | 	M3M4W2	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	SystemSoftware
+10520CS 531100	 | 	Advanced Data Structure	 |	1	 | 	M3	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS 550000	 | 	Computer Graphics	 |	3	 | 	WaWbWc	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Multimedia
+10520CS 510700	 | 	Development Software Tools for Embedded Systems	 |	3	 | 	M7M8F7F8	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	SystemSoftware
+10520CS 518000	 | 	Electronic System Level Design	 |	3	 | 	TaTbTc	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	ICDesign
+10520CS 531200	 | 	Graph Theory	 |	3	 | 	M3M4W3W4	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS 546400	 | 	High-Tech Entrepreneurship	 |	3	 | 	R6R7R8	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Other
+10520CS 573200	 | 	Introduction to Massive Data Analysis	 |	3	 | 	W3W4F3	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS 515100	 | 	Introduction to System-on-Chip and its Applications	 |	3	 | 	T3T4R3R4	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	ICDesign
+10520CS 536200	 | 	IoT Security Technologies and Practices	 |	3	 | 	R6R7R8	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Network
+10520CS 563100	 | 	Natural Language Processing	 |	3	 | 	R7R8R9	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS 554000	 | 	Pattern Recognition	 |	3	 | 	M5M6R4	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS 533100	 | 	Queuing Theory	 |	3	 | 	T7T8R7	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	TheoryAlgorithm
+10520CS 529100	 | 	Stochastic Processes for Networking	 |	3	 | 	T7T8R7	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Network
+10520CS 526300	 | 	Wireless Multimedia Networking Technologies and Applications	 |	3	 | 	M7M8R6	 | 	 - 	 | 	Optional 	 | 	 - 	 | 	Network
